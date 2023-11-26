@@ -68,7 +68,7 @@ class CustomInput extends StatelessWidget {
             controller: controller,
             onFieldSubmitted: (String? text) => onSubmitted,
             onTapOutside: (PointerEvent? p) => FocusScope.of(context).unfocus(),
-            maxLength: isPassword ? 20 : 100,
+            maxLength: 20,
             obscureText: isPassword,
             decoration: InputDecoration(
               filled: true,
