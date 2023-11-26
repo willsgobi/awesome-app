@@ -34,11 +34,16 @@ class _CardWidgetState extends State<CardWidget> {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 16),
+      decoration: BoxDecoration(
+          border: Border(
+              bottom:
+                  BorderSide(color: Colors.black.withOpacity(.2), width: 01))),
       child: Row(
         children: [
           Expanded(
             child: Text(
               widget.toDo.text,
+              maxLines: 2,
               style: const TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
