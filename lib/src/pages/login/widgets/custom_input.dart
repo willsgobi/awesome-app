@@ -71,6 +71,8 @@ class CustomInput extends StatelessWidget {
             maxLength: 20,
             obscureText: isPassword,
             decoration: InputDecoration(
+              errorMaxLines: 2,
+              counterText: "",
               filled: true,
               fillColor: Colors.white,
               isDense: true,
