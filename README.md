@@ -41,3 +41,10 @@ Também é possível gerar o APK para instalar em dispositivos reais, basta roda
 # Contribuir com o projeto
 
 Sinta-se a vontade caso queira aprimorar o projeto!
+
+# Screenshots do app
+![Tela de login](https://github.com/willsgobi/awesome_app/assets/35748585/469bda72-c4d8-4311-bac9-f081a5ffa995)
+![Tela inicial](https://github.com/willsgobi/awesome_app/assets/35748585/c17c9ce7-6bd2-488a-ac7a-356fa07cdf68)
+
+
+
