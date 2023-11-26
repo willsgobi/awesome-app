@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Awesome App",
       theme: ThemeData(primaryColor: darkBlue),
-      home: AppWidget(),
+      home: const AppWidget(),
     );
   }
 }
