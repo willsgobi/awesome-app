@@ -50,7 +50,9 @@ Para melhorar ainda mais este app, no futuro os seguintes pontos podem ser melho
 # Screenshots do app
 
 <img src="https://github.com/willsgobi/awesome_app/assets/35748585/469bda72-c4d8-4311-bac9-f081a5ffa995" alt="Tela de login" width="250"/>
-<img src="https://github.com/willsgobi/awesome_app/assets/35748585/c17c9ce7-6bd2-488a-ac7a-356fa07cdf68" alt="Tela inicial" width="250"/>
+<img src="https://github.com/willsgobi/awesome_app/assets/35748585/7131b1d9-13ab-4cf8-ad13-d91353d9d045" alt="Tela inicial" width="250"/>
+<img src="https://github.com/willsgobi/awesome_app/assets/35748585/fb3bbeb9-c80b-4a32-ac39-3cf56f175612" alt="Deletar item" width="250"/>
+<img src="https://github.com/willsgobi/awesome_app/assets/35748585/cee27793-cb5c-4e99-864b-3357bc39b9f8" alt="Atualizar item" width="250"/>
 
 # Contribuir com o projeto
 
