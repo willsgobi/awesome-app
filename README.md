@@ -1,4 +1,4 @@
-# Awesome App ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+# Awesome App ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) <img src="https://github.com/willsgobi/awesome_app/assets/35748585/11d100bd-a642-439e-b3a8-e062b2b83e7a" alt="Logo app" height="40" style="margin-bottom: -5px;" />
 
 Este projeto tem como principal objetivo salvar informações importantes do seu dia a dia, você pode criar, editar e excluir suas informações a qualquer momento!
 
@@ -39,6 +39,8 @@ Também é possível gerar o APK para instalar em dispositivos reais, basta roda
 `flutter build apk --release`
 
 **Nota:** Para instalar o apk em um dispositivo real é necessário que o dispositivo esteja previamente configurado para instalar apps fora da PlayStore.
+
+> [Baixar o apk](https://drive.google.com/file/d/1h9m4c6E-nXgSTla6_5Or3H5t5XSAcXnd/view?usp=drive_link)
 
 # Evoluções no projeto
 
